@@ -3,6 +3,7 @@
 Grants, fellowships, jobs and student programs for every research area and career stage in the Yale Department of Physics, with Yale's internal and limited-submission deadlines.
 
 - **Live page (updated automatically):** https://claude.ai/artifact/J4VAT4KTPbXMyMqZJgb5gs
+- **On GitHub Pages:** https://chiaramingarelli.github.io/yale-physics-funding-finder/
 - **This repository:** a self-contained copy you can read, download or host yourself.
 
 ## Use it
