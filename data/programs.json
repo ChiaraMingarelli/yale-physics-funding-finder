@@ -34,7 +34,8 @@
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Prize",
   "checked": "2026-09-29",
@@ -64,7 +65,8 @@
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Travel",
   "checked": "2026-09-29",
@@ -94,7 +96,8 @@
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Travel",
   "checked": "2026-09-29",
@@ -125,7 +128,8 @@
   "added": "2026-09-30",
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -185,7 +189,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Compute",
   "checked": "2026-09-29",
@@ -218,7 +223,8 @@
   "aud": [
    "yale",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Compute",
   "checked": "2026-09-29",
@@ -246,7 +252,8 @@
   "added": "2026-10-03",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-10-03",
@@ -318,7 +325,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -355,7 +363,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Yale internal",
   "checked": "2026-09-29",
@@ -436,9 +445,15 @@
  {
   "a": "not listed; 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "star",
+   "ism"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -469,7 +484,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Compute",
   "checked": "2026-09-29",
@@ -501,7 +517,8 @@
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Travel",
   "checked": "2026-09-29",
@@ -532,7 +549,8 @@
   "added": "2026-10-03",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Prize",
   "checked": "2026-10-03",
@@ -617,10 +635,14 @@
  {
   "a": "Up to $600",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Travel",
   "checked": "2026-09-29",
@@ -707,7 +729,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Prize",
   "checked": "2026-09-29",
@@ -911,10 +934,15 @@
  {
   "a": "2 years, possible 3rd; salary per university matrix",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -971,9 +999,14 @@
  {
   "a": "up to $87,035/yr + $17,000/yr research + $6,000 relocation; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "xgal",
+   "star"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -1000,9 +1033,14 @@
  {
   "a": "$71,000/yr; up to 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "star"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -1029,10 +1067,14 @@
  {
   "a": "$71,000/yr + $5,000 relocation; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo"
+  ],
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -1172,7 +1214,8 @@
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Visiting program",
   "checked": "2026-09-29",
@@ -1203,7 +1246,8 @@
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Visiting program",
   "checked": "2026-09-29",
@@ -1232,10 +1276,14 @@
  {
   "a": "€4,552–5,758 gross/month; 3 years (2+1)",
   "added": "2026-09-30",
+  "asub": [
+   "inst"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -1263,10 +1311,15 @@
  {
   "a": "€4,552–5,758 gross/month + allowances; 3 years (2+1)",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "star"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -1293,10 +1346,17 @@
  {
   "a": "~€1,900/month before tax; 1 year, extendable to 2",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "xgal",
+   "he",
+   "star"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -1324,9 +1384,15 @@
  {
   "a": "$88,527 starting; 4 years + 1",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "exo",
+   "inst"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -1358,7 +1424,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Compute",
   "checked": "2026-09-29",
@@ -1453,7 +1520,8 @@
   "aud": [
    "yale",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Prize",
   "checked": "2026-09-29",
@@ -1510,7 +1578,8 @@
   "aud": [
    "yale",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Prize",
   "checked": "2026-09-30",
@@ -1544,7 +1613,8 @@
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Prize",
   "checked": "2026-09-30",
@@ -1699,10 +1769,14 @@
  {
   "a": "Stipend + research funds, up to 3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -1787,11 +1861,15 @@
  {
   "a": "$88k + $10k/yr research, 3–4 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -1878,11 +1956,16 @@
  {
   "a": "$88,000 first year + $10,000/yr research fund; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "inst",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -1917,9 +2000,14 @@
  {
   "a": "$75,268–85,000/yr; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "inst"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -1947,10 +2035,15 @@
  {
   "a": "$76,000-$80,000; 2 years + expected 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -1979,9 +2072,14 @@
  {
   "a": "$75,268/yr; 2 years, renewable for a third",
   "added": "2026-10-01",
+  "asub": [
+   "cos",
+   "xgal"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-10-01",
@@ -2038,9 +2136,14 @@
  {
   "a": "$76,000–82,000/yr",
   "added": "2026-09-30",
+  "asub": [
+   "galac",
+   "star"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -2067,9 +2170,14 @@
  {
   "a": "$76,000-$82,000; 2 years, renewable for a 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "galac",
+   "star"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -2107,7 +2215,8 @@
   "e": "Independent scholarship for outstanding theoretical condensed-matter / quantum-materials researchers. PhD by start (Sep 1, 2027); current postdocs eligible.",
   "f": "Caltech, Division of Physics, Mathematics & Astronomy, Condensed Matter Theory group",
   "fields": [
-   "cmt"
+   "cmt",
+   "mat"
   ],
   "id": "caltech-postdoctoral-scholarship-in-quantum-materials-th",
   "n": "Caltech: Postdoctoral Scholarship in Quantum Materials Theory",
@@ -2123,10 +2232,15 @@
  {
   "a": "$75,268–85,000; 2 years + 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "xgal",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -2153,9 +2267,11 @@
  {
   "a": "£37,694–46,049 (RA) or £47,389–59,966 (Senior) + £10k/yr; 3 years",
   "added": "2026-09-30",
+  "asub": [],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -2182,10 +2298,15 @@
  {
   "a": "About 13,000 PLN gross/month; up to 30 months",
   "added": "2026-10-02",
+  "asub": [
+   "he",
+   "star"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-10-02",
@@ -2214,10 +2335,14 @@
  {
   "a": "not listed; up to 36 months",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -2248,7 +2373,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -2275,9 +2401,15 @@
  {
   "a": "$78,280; 1 year, renewable up to 3",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "star",
+   "ism"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -2304,9 +2436,11 @@
  {
   "a": "$87,500/yr + ~$12,000/yr research; 2 years + 3rd",
   "added": "2026-09-30",
+  "asub": [],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -2334,10 +2468,18 @@
  {
   "a": "$87,500; 2 years + 1",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "exo",
+   "xgal",
+   "he",
+   "star"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -2364,10 +2506,14 @@
  {
   "a": "CNY 250,000 + X (negotiable) before tax; 1+1 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -2474,10 +2620,14 @@
  {
   "a": "two 3-year and one 2-year position (possibly a 4th 2-year)",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -2505,9 +2655,13 @@
  {
   "a": "About EUR 42,695 gross/yr; 48 months; 4 fellowships",
   "added": "2026-10-02",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-10-02",
@@ -2596,7 +2750,8 @@
   "added": "2026-09-29",
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -2625,9 +2780,11 @@
  {
   "a": "$84,600/yr + COLA + $18,000/yr research budget; 3 years",
   "added": "2026-09-30",
+  "asub": [],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -2655,9 +2812,13 @@
  {
   "a": "$87,500/yr + COLA + $18,000/yr research budget; 4 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -2713,10 +2874,14 @@
  {
   "a": "not listed; 2 years + 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -2809,7 +2974,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -2844,10 +3010,14 @@
  {
   "a": "$85k–90k + $16k/yr research, 3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -2874,10 +3044,14 @@
  {
   "a": "$6,300 + housing + travel",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Summer program",
   "checked": "2026-09-29",
@@ -2905,10 +3079,14 @@
  {
   "a": "C$81.5k (National varies by host), 3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -2964,9 +3142,14 @@
  {
   "a": "CNRS salary scale; 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "xgal"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -2993,9 +3176,14 @@
  {
   "a": "USMB salary scale; one 2-year and one 3-year position",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -3023,10 +3211,14 @@
  {
   "a": "1 year, extendible up to 2 more",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -3085,10 +3277,15 @@
  {
   "a": "3 years",
   "added": "2026-09-30",
+  "asub": [
+   "he",
+   "star"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -3116,10 +3313,15 @@
  {
   "a": "up to 4 years (3+1)",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -3159,7 +3361,8 @@
   "f": "Cornell University, Artificial Intelligence Materials Institute (AI-MI)",
   "fields": [
    "cmt",
-   "ds"
+   "ds",
+   "mat"
   ],
   "id": "cornell-ai-mi-postdoctoral-fellowship-ai-materials-insti",
   "n": "Cornell: AI-MI Postdoctoral Fellowship (AI Materials Institute)",
@@ -3264,7 +3467,8 @@
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -3294,7 +3498,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -3569,7 +3774,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -3639,7 +3845,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -3750,7 +3957,8 @@
   "added": "2026-10-03",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Scholarship",
   "checked": "2026-10-03",
@@ -3779,7 +3987,8 @@
   "added": "2026-10-03",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-10-03",
@@ -3809,7 +4018,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -3841,7 +4051,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -3907,9 +4118,11 @@
  {
   "a": "Project periods of 6 months to 5 years; three years is typical. Ask the program manager before requesting more than three years.",
   "added": "2026-09-28",
+  "asub": [],
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -4074,7 +4287,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -4103,7 +4317,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -4153,7 +4368,8 @@
    "cmx",
    "cmt",
    "qp",
-   "amo"
+   "amo",
+   "mat"
   ],
   "id": "doe-office-of-science-open-call-bes-experimental-theoretical",
   "n": "DOE Office of Science Open Call – BES Experimental & Theoretical Condensed Matter Physics, QIS in Materials, AMO Sciences",
@@ -4332,7 +4548,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Summer program",
   "checked": "2026-09-29",
@@ -4362,7 +4579,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Summer program",
   "checked": "2026-09-29",
@@ -4428,9 +4646,13 @@
  {
   "a": "TV-L pay scale; 2 years with possible 2-year extension",
   "added": "2026-10-02",
+  "asub": [
+   "ism"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-10-02",
@@ -4488,7 +4710,8 @@
   "added": "2026-09-30",
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -4538,10 +4761,14 @@
  {
   "a": "competitive salary; 2 years, usually extended to 3",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -4574,7 +4801,8 @@
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -4607,7 +4835,8 @@
   "added": "2026-09-30",
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -4661,10 +4890,12 @@
  {
   "a": "3-year appointment, extendable up to 2 more years.",
   "added": "2026-09-29",
+  "asub": [],
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -4721,10 +4952,14 @@
  {
   "a": "Postdoc appointment; terms not verified.",
   "added": "2026-09-29",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -4781,10 +5016,18 @@
  {
   "a": "about EUR 3,500-3,900/month; 3-year fixed term",
   "added": "2026-10-01",
+  "asub": [
+   "cos",
+   "exo",
+   "xgal",
+   "he",
+   "star"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-10-01",
@@ -4815,7 +5058,8 @@
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -4843,10 +5087,14 @@
  {
   "a": "$95k, 2+1 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -4876,7 +5124,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Yale internal",
   "checked": "2026-09-29",
@@ -4947,9 +5196,16 @@
  {
   "a": "competitive; 2 years, extendable to 3",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "exo",
+   "xgal",
+   "he"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -4978,7 +5234,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Sabbatical",
   "checked": "2026-09-29",
@@ -5006,7 +5263,8 @@
   "added": "2026-10-03",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-10-03",
@@ -5035,7 +5293,8 @@
   "added": "2026-09-30",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-30",
@@ -5068,7 +5327,8 @@
   "added": "2026-09-30",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-30",
@@ -5101,7 +5361,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Instrumentation",
   "checked": "2026-09-29",
@@ -5135,7 +5396,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Instrumentation",
   "checked": "2026-09-29",
@@ -5169,7 +5431,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Instrumentation",
   "checked": "2026-09-29",
@@ -5205,7 +5468,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -5242,7 +5506,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -5283,7 +5548,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Summer program",
   "checked": "2026-09-29",
@@ -5342,7 +5608,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Compute",
   "checked": "2026-09-29",
@@ -5407,7 +5674,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Yale internal",
   "checked": "2026-09-29",
@@ -5434,7 +5702,8 @@
   "aud": [
    "yale",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -5459,10 +5728,14 @@
  {
   "a": "$1,000",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Prize",
   "checked": "2026-09-29",
@@ -5490,10 +5763,15 @@
  {
   "a": "TV-L E13, 100%; 3-year fixed term",
   "added": "2026-10-02",
+  "asub": [
+   "inst",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-10-02",
@@ -5550,10 +5828,14 @@
  {
   "a": "3 years",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -5582,10 +5864,14 @@
  {
   "a": "3 years",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -5613,9 +5899,14 @@
  {
   "a": "$73,000–76,000; 1 year, extendable 2 more",
   "added": "2026-09-30",
+  "asub": [
+   "star",
+   "ism"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -5642,10 +5933,14 @@
  {
   "a": "$87.5k–89.5k, 1 yr renewable to 3",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -5787,7 +6082,8 @@
   "added": "2026-10-03",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-10-03",
@@ -5820,7 +6116,8 @@
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -5875,10 +6172,14 @@
  {
   "a": "Conference/workshop support",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Foundation",
   "checked": "2026-09-29",
@@ -5937,7 +6238,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -6157,7 +6459,8 @@
   "added": "2026-09-30",
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -6241,7 +6544,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Prize",
   "checked": "2026-09-29",
@@ -6268,7 +6572,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Sabbatical",
   "checked": "2026-09-29",
@@ -6297,7 +6602,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -6324,10 +6630,15 @@
  {
   "a": "R$12,570/month; 1 year, renewable",
   "added": "2026-09-30",
+  "asub": [
+   "he",
+   "inst"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -6354,11 +6665,15 @@
  {
   "a": "$71k–90k, 3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -6389,11 +6704,15 @@
  {
   "a": "Stipend + housing eligibility; sabbatical stipends vary",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Sabbatical",
   "checked": "2026-09-29",
@@ -6452,10 +6771,15 @@
  {
   "a": "~320,000 CNY/yr; 2 years + possible 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -6506,10 +6830,14 @@
  {
   "a": "Five-year Ramón y Cajal fellowship on tenure-track trajectory toward permanent faculty; salary not listed",
   "added": "2026-10-02",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-10-02",
@@ -6564,9 +6892,13 @@
  {
   "a": "not listed",
   "added": "2026-09-30",
+  "asub": [
+   "inst"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -6667,7 +6999,8 @@
   "added": "2026-09-30",
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -6695,9 +7028,13 @@
  {
   "a": "CNY 300,000-500,000/yr before tax; 2 years + 1-2 renewal",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -6854,7 +7191,8 @@
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -6884,10 +7222,15 @@
  {
   "a": "About 25 funded PhD positions (fellowship or contract)",
   "added": "2026-10-01",
+  "asub": [
+   "star",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Training",
   "checked": "2026-10-01",
@@ -7017,7 +7360,8 @@
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -7075,10 +7419,14 @@
  {
   "a": "Free registration in 2026",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Training",
   "checked": "2026-09-29",
@@ -7108,7 +7456,8 @@
   "added": "2026-09-30",
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -7135,9 +7484,14 @@
  {
   "a": "not listed; 2 years, extensible to 3",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "star"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -7164,9 +7518,13 @@
  {
   "a": "min €76,986 gross/yr + €25,000/yr research; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -7340,10 +7698,14 @@
  {
   "a": "$63,480–$75,000 starting; more for exceptional candidates",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -7371,9 +7733,13 @@
  {
   "a": "$83,820/yr; 2 years + 1",
   "added": "2026-09-30",
+  "asub": [
+   "exo"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -7513,7 +7879,8 @@
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -7540,11 +7907,17 @@
  {
   "a": "up to 3 years (annual contracts)",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he",
+   "inst"
+  ],
   "aud": [
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -7667,7 +8040,8 @@
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -7698,7 +8072,8 @@
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -7725,11 +8100,15 @@
  {
   "a": "4–5 scholars/yr; salary not listed",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -7762,9 +8141,13 @@
  {
   "a": "KITP hosts the program and supports participants' local costs",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Summer program",
   "checked": "2026-09-29",
@@ -7801,7 +8184,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -7833,9 +8217,13 @@
  {
   "a": "~KRW 50,000,000/yr; 2 years, renewable",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -7924,9 +8312,15 @@
  {
   "a": "2 years, possibly 3; CNRS salary scale; start Oct 2027",
   "added": "2026-10-02",
+  "asub": [
+   "cos",
+   "he",
+   "star"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-10-02",
@@ -7979,10 +8373,15 @@
  {
   "a": "3 years, renewable for 2 more. $6,777-$7,145 per month (union scale) plus a $10K per year research supplement.",
   "added": "2026-09-29",
+  "asub": [
+   "cos",
+   "inst"
+  ],
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -8069,11 +8468,16 @@
  {
   "a": "1 year, renewable up to 2 more",
   "added": "2026-09-30",
+  "asub": [
+   "he",
+   "inst"
+  ],
   "aud": [
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -8102,10 +8506,14 @@
  {
   "a": "—",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-29",
@@ -8133,10 +8541,14 @@
  {
   "a": "Summer stipend + travel",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Summer program",
   "checked": "2026-09-29",
@@ -8165,11 +8577,15 @@
  {
   "a": "£51,000+; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -8200,7 +8616,8 @@
   "added": "2026-10-03",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Travel",
   "checked": "2026-10-03",
@@ -8260,10 +8677,16 @@
  {
   "a": "TV-L E13; 4 years (extensible)",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "xgal",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -8313,9 +8736,15 @@
  {
   "a": "min $97,000; 2 years + 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he",
+   "star"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -8344,7 +8773,8 @@
   "added": "2026-09-30",
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -8372,10 +8802,15 @@
  {
   "a": "French public research scale; 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "xgal",
+   "ism"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -8402,10 +8837,14 @@
  {
   "a": "French public research scale; 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "ism"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -8465,7 +8904,8 @@
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Training",
   "checked": "2026-09-29",
@@ -8495,7 +8935,8 @@
   "added": "2026-09-30",
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -8587,7 +9028,8 @@
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -8617,9 +9059,13 @@
  {
   "a": "€5,011.96/month; 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "inst"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -8652,7 +9098,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -8716,10 +9163,14 @@
  {
   "a": "TVöD E13, 2–5 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-29",
@@ -8750,7 +9201,8 @@
   "aud": [
    "yale",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Prize",
   "checked": "2026-09-29",
@@ -8894,7 +9346,8 @@
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -8953,11 +9406,16 @@
  {
   "a": "not listed",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -8988,11 +9446,16 @@
  {
   "a": "$73,000-$90,000 (12-month appointment)",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -9071,10 +9534,14 @@
  {
   "a": "$73,308-$90,000; 2 years, extendable to 3",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -9102,9 +9569,15 @@
  {
   "a": "$73,300-$90,000; 2 years, possible 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "xgal",
+   "he",
+   "inst"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -9135,7 +9608,8 @@
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -9195,11 +9669,15 @@
  {
   "a": "$88,000 stipend + $15,000 research + $5,000 relocation; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -9263,9 +9741,13 @@
  {
   "a": "3 years (2027-2030); competitive salary plus EUR 10,000/yr research funds",
   "added": "2026-10-01",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-10-01",
@@ -9295,10 +9777,14 @@
  {
   "a": "About US$86,195–116,981/yr incl. 17% superannuation; 2 years, possibly extendable",
   "added": "2026-10-02",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-10-02",
@@ -9395,7 +9881,8 @@
   "e": "US faculty (tenured, tenure-track or research). Fellows track requires a first tenure-track appointment beginning in 2024 or later.",
   "f": "Gordon and Betty Moore Foundation – EPiQS",
   "fields": [
-   "cmx"
+   "cmx",
+   "mat"
   ],
   "id": "moore-epiqs-materials-synthesis-investigators-moore-synthesi",
   "n": "Moore EPiQS Materials Synthesis Investigators & Moore Synthesis Fellows",
@@ -9444,9 +9931,13 @@
  {
   "a": "€67.5k–77.7k/yr; 4 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -9474,9 +9965,13 @@
  {
   "a": "German civil-service rates (as for MPA postdocs); 4 years, not extendable",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -9503,10 +9998,17 @@
  {
   "a": "€67,500–77,700 gross/yr; 3 years",
   "added": "2026-10-01",
+  "asub": [
+   "cos",
+   "xgal",
+   "he",
+   "star"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-10-01",
@@ -9534,10 +10036,14 @@
  {
   "a": "TVöD Bund E14; 3 years, extendable to 5",
   "added": "2026-09-30",
+  "asub": [
+   "ism"
+  ],
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -9644,9 +10150,13 @@
  {
   "a": "TVöD E14; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -9673,9 +10183,13 @@
  {
   "a": "TVöD E14; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -9702,9 +10216,13 @@
  {
   "a": "TVöD E14; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -9732,9 +10250,13 @@
  {
   "a": "TVöD E14; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "inst"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -9762,9 +10284,16 @@
  {
   "a": "TVöD E14; 4 years (prize fellowship)",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "xgal",
+   "galac",
+   "star"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -9791,9 +10320,15 @@
  {
   "a": "TVöD E14; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "star",
+   "ism"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -9822,7 +10357,8 @@
   "added": "2026-09-29",
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -9854,7 +10390,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Compute",
   "checked": "2026-09-29",
@@ -9888,7 +10425,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Compute",
   "checked": "2026-09-29",
@@ -9920,7 +10458,8 @@
   "added": "2026-09-30",
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -9949,7 +10488,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -9976,9 +10516,13 @@
  {
   "a": "Theory grants, ~3 yr",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -10005,10 +10549,14 @@
  {
   "a": "Student-led research award",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -10036,10 +10584,14 @@
  {
   "a": "Prize-fellowship salary, up to 3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -10066,8 +10618,10 @@
  {
   "a": "Ceiling $225,000; ~16 awards",
   "added": "2026-09-28",
+  "asub": [],
   "aud": [
-   "yale"
+   "yale",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -10099,9 +10653,13 @@
  {
   "a": "—",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -10132,7 +10690,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Summer program",
   "checked": "2026-09-29",
@@ -10161,11 +10720,15 @@
  {
   "a": "From $70k + $10k/yr travel, 1–3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -10194,8 +10757,12 @@
  {
   "a": "not listed",
   "added": "2026-09-28",
+  "asub": [
+   "exo"
+  ],
   "aud": [
-   "yale"
+   "yale",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -10261,9 +10828,13 @@
  {
   "a": "Multi-node networks, up to 3 yr",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -10321,10 +10892,15 @@
  {
   "a": "min NTD 65,800/month; 1 year, renewable to 4",
   "added": "2026-09-30",
+  "asub": [
+   "star",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -10406,10 +10982,14 @@
  {
   "a": "not listed",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -10437,10 +11017,17 @@
  {
   "a": "3 years; Open Fellowships extendable to 5",
   "added": "2026-10-01",
+  "asub": [
+   "cos",
+   "xgal",
+   "he",
+   "star"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-10-01",
@@ -10481,7 +11068,8 @@
   "e": "Computational quantum materials, strongly correlated condensed matter and cold-atom systems. Start Jan 1, 2027 (negotiable).",
   "f": "National Center for Theoretical Sciences, Physics Division (Tay-Rong Chang, Chung-Hou Chung)",
   "fields": [
-   "cmt"
+   "cmt",
+   "mat"
   ],
   "id": "ncts-taiwan-postdoc-scholars-condensed-matter-theory-com",
   "n": "NCTS Taiwan: Postdoc Scholars, Condensed Matter Theory & Computational Materials",
@@ -10497,9 +11085,13 @@
  {
   "a": "commensurate with experience + health insurance + airfare; 1 year, renewable to 3",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -10587,7 +11179,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -11303,7 +11896,8 @@
   "added": "2026-10-03",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-10-03",
@@ -11495,10 +12089,17 @@
  {
   "a": "not listed",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "he",
+   "star",
+   "ism"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -11527,10 +12128,15 @@
  {
   "a": "2 years, possible 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "he",
+   "star"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -11586,10 +12192,14 @@
  {
   "a": "$88.5k + $18.5k/yr research + $5k relocation, 3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -11616,10 +12226,14 @@
  {
   "a": "full salary + research/travel/relocation; up to 5 years",
   "added": "2026-09-30",
+  "asub": [
+   "inst"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -11647,9 +12261,13 @@
  {
   "a": "CAD 83,985–116,641; 2 years + 1",
   "added": "2026-09-30",
+  "asub": [
+   "inst"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -11677,10 +12295,18 @@
  {
   "a": "CAD 83,985–116,641; 2 years + 1",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "exo",
+   "xgal",
+   "he",
+   "star"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -11707,9 +12333,11 @@
  {
   "a": "not listed",
   "added": "2026-09-28",
+  "asub": [],
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -11808,9 +12436,13 @@
  {
   "a": "No cap stated; up to 5 yr",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -11842,8 +12474,12 @@
  {
   "a": "1–3 awards; science projects, mid-scale-level facilities, open-access capabilities",
   "added": "2026-09-28",
+  "asub": [
+   "inst"
+  ],
   "aud": [
-   "yale"
+   "yale",
+   "ast"
   ],
   "c": "Instrumentation",
   "checked": "2026-09-29",
@@ -11875,10 +12511,14 @@
  {
   "a": "$110k/yr ($75k stipend + $35k allowance), up to 3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -11913,7 +12553,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -11946,7 +12587,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -12010,7 +12652,8 @@
   "aud": [
    "yale",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -12174,6 +12817,10 @@
  {
   "a": "Hub-scale awards; size not stated on the page.",
   "added": "2026-09-28",
+  "aud": [
+   "yale",
+   "ast"
+  ],
   "c": "Federal grant",
   "checked": "2026-09-29",
   "d": null,
@@ -12210,7 +12857,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -12237,9 +12885,13 @@
  {
   "a": "No cap stated; up to 5 yr",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -12274,7 +12926,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -12306,7 +12959,8 @@
   "added": "2026-10-03",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Training",
   "checked": "2026-10-03",
@@ -12372,7 +13026,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Instrumentation",
   "checked": "2026-09-29",
@@ -12409,7 +13064,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Instrumentation",
   "checked": "2026-09-29",
@@ -12449,7 +13105,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Instrumentation",
   "checked": "2026-09-29",
@@ -12478,7 +13135,8 @@
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -12557,7 +13215,8 @@
   "fields": [
    "cmx",
    "cmt",
-   "qp"
+   "qp",
+   "mat"
   ],
   "id": "nsf-mps-materials-research-programs-nsf-26-521-condensed-mat",
   "n": "NSF MPS Materials Research Programs (NSF 26-521): Condensed Matter Physics (CMP) & Condensed Matter and Materials Theory (CMMT)",
@@ -12579,6 +13238,13 @@
  {
   "a": "Budgets and durations vary (26-523 total about $180M, 300 awards).",
   "added": "2026-09-28",
+  "asub": [
+   "cos"
+  ],
+  "aud": [
+   "yale",
+   "ast"
+  ],
   "c": "Federal grant",
   "checked": "2026-09-29",
   "d": null,
@@ -12709,8 +13375,13 @@
  {
   "a": "Budgets and durations vary.",
   "added": "2026-09-28",
+  "asub": [
+   "cos",
+   "inst"
+  ],
   "aud": [
-   "yale"
+   "yale",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -12851,7 +13522,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -12949,7 +13621,8 @@
   "added": "2026-10-03",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Training",
   "checked": "2026-10-03",
@@ -13014,7 +13687,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -13114,7 +13788,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Summer program",
   "checked": "2026-09-29",
@@ -13153,7 +13828,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -13332,7 +14008,8 @@
   "aud": [
    "yale",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Compute",
   "checked": "2026-09-29",
@@ -13358,9 +14035,13 @@
  {
   "a": "usually 3 years (longer for exceptional candidates)",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -13388,10 +14069,14 @@
  {
   "a": "€48k gross/yr + €5k/yr environment; 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -13419,10 +14104,14 @@
  {
   "a": "€3,131–4,341/month; 24 months",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -13477,9 +14166,13 @@
  {
   "a": "$67,000/yr + $10,000/yr research + $3,000 relocation; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -13531,10 +14224,14 @@
  {
   "a": "2 years, possible 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -13601,7 +14298,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Federal grant",
   "checked": "2026-09-29",
@@ -13636,9 +14334,14 @@
  {
   "a": "not listed; 2+1 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "he"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -13730,7 +14433,8 @@
   "added": "2026-10-03",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Training",
   "checked": "2026-10-03",
@@ -13759,10 +14463,16 @@
  {
   "a": "36 months",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "xgal",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -13793,7 +14503,8 @@
   "added": "2026-09-30",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -13828,7 +14539,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -13908,10 +14620,14 @@
  {
   "a": "not listed",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -13967,11 +14683,16 @@
  {
   "a": "3 yr (named fellowships 4 yr)",
   "added": "2026-09-29",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -14004,7 +14725,8 @@
   "aud": [
    "yale",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Yale internal",
   "checked": "2026-09-29",
@@ -14238,10 +14960,14 @@
  {
   "a": "Last cycle $77k, 3 yr",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -14357,9 +15083,16 @@
  {
   "a": "$65,000–99,000 (PDRA $65–86k; ARS $79–99k); 1 year, renewable",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "he",
+   "star",
+   "ism"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -14443,9 +15176,14 @@
  {
   "a": "min 260k CNY (first postdoc), 280k CNY (second postdoc)",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "xgal"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -14532,11 +15270,15 @@
  {
   "a": "not listed; 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -14567,7 +15309,8 @@
   "aud": [
    "yale",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Sabbatical",
   "checked": "2026-09-29",
@@ -14594,7 +15337,8 @@
   "added": "2026-09-30",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Foundation",
   "checked": "2026-09-30",
@@ -14624,7 +15368,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -14683,10 +15428,14 @@
  {
   "a": "~JPY 480,000+/month; 1-year contracts renewable to Mar 2031",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -14808,7 +15557,8 @@
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Travel",
   "checked": "2026-09-29",
@@ -14899,7 +15649,8 @@
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -15134,7 +15885,8 @@
   "aud": [
    "yale",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Foundation",
   "checked": "2026-09-29",
@@ -15159,9 +15911,13 @@
  {
   "a": "Up to $125k salary replacement + $10k expenses + 20% overhead (max $162k)",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Sabbatical",
   "checked": "2026-09-29",
@@ -15187,9 +15943,13 @@
  {
   "a": "Formerly sabbatical-extension salary support",
   "added": "2026-09-28",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Sabbatical",
   "checked": "2026-09-29",
@@ -15249,7 +16009,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Foundation",
   "checked": "2026-09-29",
@@ -15306,7 +16067,8 @@
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -15335,7 +16097,8 @@
   "aud": [
    "yale",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Foundation",
   "checked": "2026-09-29",
@@ -15363,7 +16126,8 @@
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -15390,10 +16154,12 @@
  {
   "a": "5-year Associate Staff Scientist appointment with research support; review for continuing staff at or before the end.",
   "added": "2026-09-29",
+  "asub": [],
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -15426,7 +16192,8 @@
   "added": "2026-09-30",
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -15483,7 +16250,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -15538,9 +16306,14 @@
  {
   "a": "13,263 PLN/month; up to 48 months",
   "added": "2026-09-30",
+  "asub": [
+   "star",
+   "ism"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -15571,7 +16344,8 @@
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Summer program",
   "checked": "2026-09-29",
@@ -15657,11 +16431,16 @@
  {
   "a": "not listed",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -15691,10 +16470,15 @@
  {
   "a": "up to 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "he",
+   "star"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -15780,7 +16564,8 @@
   "added": "2026-10-03",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-10-03",
@@ -15841,7 +16626,8 @@
   "aud": [
    "yale",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Yale internal",
   "checked": "2026-09-29",
@@ -15895,9 +16681,13 @@
  {
   "a": "$84,875/yr; up to 3 years, non-extendable",
   "added": "2026-10-02",
+  "asub": [
+   "exo"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-10-02",
@@ -15954,11 +16744,16 @@
  {
   "a": "not listed; 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "he",
+   "star"
+  ],
   "aud": [
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -15987,9 +16782,13 @@
  {
   "a": "competitive (comparable to US); 2+1 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -16017,9 +16816,14 @@
  {
   "a": "competitive (US-comparable) + housing/research support; 2 years, renewable to 5",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "inst"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -16077,7 +16881,8 @@
   "added": "2026-09-30",
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -16133,9 +16938,13 @@
  {
   "a": "competitive (US-comparable); 2+1 years, further 3 possible",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -16164,10 +16973,18 @@
  {
   "a": "at least RMB 312,000/yr + research fund; 3 years renewable",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "exo",
+   "xgal",
+   "he",
+   "star"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -16311,7 +17128,8 @@
   "aud": [
    "yale",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Foundation",
   "checked": "2026-09-29",
@@ -16343,7 +17161,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Yale internal",
   "checked": "2026-09-29",
@@ -16444,10 +17263,17 @@
  {
   "a": "not listed; 2 years + 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "exo",
+   "xgal",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -16511,7 +17337,8 @@
   "fields": [
    "cmt",
    "qp",
-   "ds"
+   "ds",
+   "mat"
   ],
   "id": "tu-berlin-postdoc-computational-design-of-quantum-sensin",
   "n": "TU Berlin: Postdoc, Computational Design of Quantum Sensing Materials",
@@ -16558,10 +17385,14 @@
  {
   "a": "not listed; 3 years (start Jan 2027)",
   "added": "2026-09-30",
+  "asub": [
+   "inst"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -16678,10 +17509,15 @@
  {
   "a": "£36,636–46,049; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "he",
+   "star"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -16816,9 +17652,14 @@
  {
   "a": "not listed; multiple positions",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "inst"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -16928,9 +17769,14 @@
  {
   "a": "CAD 75,516/yr + research allowance; 1 year, extendable to 3",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "inst"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -16959,9 +17805,11 @@
  {
   "a": "CAD 81,916/yr + CAD 20,000/yr research; 3 years (up to 5 for instrumentation)",
   "added": "2026-09-30",
+  "asub": [],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -16989,10 +17837,15 @@
  {
   "a": "about $5,705–6,000/month (as summarized); 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -17049,10 +17902,14 @@
  {
   "a": "3 years; competitive salary + research/travel funds",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -17081,9 +17938,15 @@
  {
   "a": "2 years + possible 1-year extension",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "xgal",
+   "he"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -17167,7 +18030,8 @@
   "added": "2026-10-03",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-10-03",
@@ -17194,9 +18058,13 @@
  {
   "a": "$71,491–85,736; 2 years + 1",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -17223,9 +18091,13 @@
  {
   "a": "$71,491–80,000; min 2 years",
   "added": "2026-09-30",
+  "asub": [
+   "inst"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -17253,10 +18125,15 @@
  {
   "a": "~CNY 320,000/yr + travel funds; 2 years (+1)",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -17397,10 +18274,16 @@
  {
   "a": "$80,000/yr + $15,000/yr research; up to 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "exo",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -17429,10 +18312,15 @@
  {
   "a": "$70,000-$80,000 + research support; up to 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -17517,11 +18405,15 @@
  {
   "a": "$70,000-$80,000",
   "added": "2026-10-01",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-10-01",
@@ -17581,10 +18473,17 @@
  {
   "a": "not listed; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "xgal",
+   "he",
+   "star",
+   "ism"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -17614,7 +18513,8 @@
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -17643,10 +18543,15 @@
  {
   "a": "2 years, renewable for a third",
   "added": "2026-10-01",
+  "asub": [
+   "xgal",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-10-01",
@@ -17728,10 +18633,14 @@
  {
   "a": "Stipend at a GW group abroad",
   "added": "2026-09-29",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Summer program",
   "checked": "2026-09-29",
@@ -17814,10 +18723,14 @@
  {
   "a": "2-year fellowship, possible 3rd year; travel funds; start Aug 2027; salary not listed",
   "added": "2026-10-02",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-10-02",
@@ -18022,11 +18935,15 @@
  {
   "a": "EUR 3,706-5,760/month + 8% holiday + 8.3% year-end; 36 months",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -18059,9 +18976,13 @@
  {
   "a": "not listed",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -18117,10 +19038,15 @@
  {
   "a": "one 2-year and one 2+1-year position",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -18356,7 +19282,8 @@
   "e": "Magnetic quantum hybrids, altermagnets, skyrmions, magnonics and nonreciprocal superconductors; MBE/MOCVD, crystal growth, device fabrication or transport background.",
   "f": "University of Ottawa, Quantum Electronic Devices and Circuits Lab (Hang Chi)",
   "fields": [
-   "cmx"
+   "cmx",
+   "mat"
   ],
   "id": "university-of-ottawa-postdoc-in-quantum-materials-chi-gr",
   "n": "University of Ottawa: Postdoc in Quantum Materials (Chi group)",
@@ -18400,10 +19327,14 @@
  {
   "a": "3 years",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -18487,9 +19418,11 @@
  {
   "a": "$10,000 plus a talk at the Users Meeting.",
   "added": "2026-09-29",
+  "asub": [],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Prize",
   "checked": "2026-09-29",
@@ -18519,9 +19452,11 @@
  {
   "a": "Up to $50K (lifetime maximum per person), for up to 1 year. Covers travel and lodging for short visits, or salary (at most 2 summer months) plus travel for longer stays.",
   "added": "2026-09-29",
+  "asub": [],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Visiting program",
   "checked": "2026-09-29",
@@ -18587,10 +19522,14 @@
  {
   "a": "RMB 150,000-200,000/yr; 2 years (+2)",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -18730,9 +19669,14 @@
  {
   "a": "$80,000/yr; 2 years + possible 3rd",
   "added": "2026-09-30",
+  "asub": [
+   "star",
+   "ism"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -18760,9 +19704,14 @@
  {
   "a": "from $71,490; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "exo",
+   "star"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -18812,9 +19761,14 @@
  {
   "a": "$65,000-$70,000; 1 year renewable",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "inst"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -18875,10 +19829,15 @@
  {
   "a": "not listed; 1 year, renewable up to 2 more",
   "added": "2026-09-30",
+  "asub": [
+   "xgal",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
@@ -18905,10 +19864,17 @@
  {
   "a": "up to 4 years, split between two Via partner institutions",
   "added": "2026-09-30",
+  "asub": [
+   "xgal",
+   "galac",
+   "he",
+   "star"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -18941,7 +19907,8 @@
   "aud": [
    "yale",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Foundation",
   "checked": "2026-09-29",
@@ -19000,10 +19967,14 @@
  {
   "a": "$70,000 + $10,000/yr research; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos"
+  ],
   "aud": [
    "yale",
    "ng",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -19065,10 +20036,15 @@
  {
   "a": "not listed; 3 years",
   "added": "2026-09-30",
+  "asub": [
+   "cos",
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-30",
@@ -19123,9 +20099,17 @@
  {
   "a": "SAFE: salary said to be comparable to top US fellowships plus 150,000 RMB/yr research budget, 2 yr likely extended to 3; group postdocs 2 yr, extendable",
   "added": "2026-10-02",
+  "asub": [
+   "cos",
+   "exo",
+   "xgal",
+   "star",
+   "ism"
+  ],
   "aud": [
    "yale",
-   "ng"
+   "ng",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-10-02",
@@ -19155,7 +20139,8 @@
   "added": "2026-09-30",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Yale internal",
   "checked": "2026-09-30",
@@ -19212,7 +20197,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Yale internal",
   "checked": "2026-09-29",
@@ -19243,7 +20229,8 @@
   "aud": [
    "yale",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Yale internal",
   "checked": "2026-09-29",
@@ -19271,7 +20258,8 @@
   "aud": [
    "yale",
    "radar",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Yale internal",
   "checked": "2026-09-29",
@@ -19346,7 +20334,8 @@
   "added": "2026-10-03",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Yale internal",
   "checked": "2026-10-03",
@@ -19406,7 +20395,8 @@
   "added": "2026-10-03",
   "aud": [
    "yale",
-   "ap"
+   "ap",
+   "ast"
   ],
   "c": "Yale internal",
   "checked": "2026-10-03",
@@ -19463,7 +20453,8 @@
   "added": "2026-09-28",
   "aud": [
    "yale",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Fellowship",
   "checked": "2026-09-29",
@@ -19488,10 +20479,14 @@
  {
   "a": "2 years + possible 1",
   "added": "2026-09-30",
+  "asub": [
+   "he"
+  ],
   "aud": [
    "yale",
    "ng",
-   "radar"
+   "radar",
+   "ast"
   ],
   "c": "Group postdoc",
   "checked": "2026-09-30",
