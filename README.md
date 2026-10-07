@@ -19,7 +19,7 @@ On a self-hosted copy everything works for everyone, including:
 
 ## Data
 
-`data/programs.json` has 626 programs, each taken from the funder's own page. Main fields: `n` name, `f` funder, `c` type, `s` status (open, rolling, watch, closed), `d` next deadline, `dt` deadline note, `a` award, `e` eligibility and notes, `u` official link, `stages` (ug, gr, pd, fj, tt, ten), `added` date added, `checked` date last checked, `unv` anything that could not be confirmed.
+`data/programs.json` has 686 programs, each taken from the funder's own page. Main fields: `n` name, `f` funder, `c` type, `s` status (open, rolling, watch, closed), `d` next deadline, `dt` deadline note, `a` award, `e` eligibility and notes, `u` official link, `stages` (ug, gr, pd, fj, tt, ten), `added` date added, `checked` date last checked, `unv` anything that could not be confirmed.
 
 The live page reads the shared catalog directly; `data/programs.json` is the copy of that catalog embedded in `index.html`. `engine/export_mod.js` is the export and calendar-link code inlined in the page.
 
