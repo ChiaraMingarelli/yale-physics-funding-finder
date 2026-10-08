@@ -2,8 +2,7 @@
 
 Grants, fellowships, jobs and student programs for every research area and career stage in the Yale Department of Physics, with Yale's internal and limited-submission deadlines.
 
-- **Live page (updated automatically):** https://claude.ai/artifact/J4VAT4KTPbXMyMqZJgb5gs
-- **On GitHub Pages:** https://chiaramingarelli.github.io/yale-physics-funding-finder/
+- **Live page (updated automatically):** https://chiaramingarelli.github.io/yale-physics-funding-finder/
 - **This repository:** a self-contained copy you can read, download or host yourself.
 
 ## Use it
@@ -21,7 +20,7 @@ On a self-hosted copy everything works for everyone, including:
 
 `data/programs.json` has 686 programs, each taken from the funder's own page. Main fields: `n` name, `f` funder, `c` type, `s` status (open, rolling, watch, closed), `d` next deadline, `dt` deadline note, `a` award, `e` eligibility and notes, `u` official link, `stages` (ug, gr, pd, fj, tt, ten), `added` date added, `checked` date last checked, `unv` anything that could not be confirmed.
 
-The live page reads the shared catalog directly; `data/programs.json` is the copy of that catalog embedded in `index.html`. `engine/export_mod.js` is the export and calendar-link code inlined in the page.
+`data/programs.json` is the copy of the shared catalog embedded in `index.html`. `engine/export_mod.js` is the export and calendar-link code inlined in the page.
 
 This site is rebuilt automatically from the shared catalog in [funding-finders](https://github.com/ChiaraMingarelli/funding-finders) and updated here within about an hour of any change. Don't edit `index.html` or `data/programs.json` here; the next update replaces them. The catalog is rechecked every Monday, new postings are added on the other days of the week, and the tips are kept current daily. Deadlines move, so check the funder's page before you commit to a date.
 
