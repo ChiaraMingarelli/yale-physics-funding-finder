@@ -18,7 +18,7 @@ The live page and any copy you host yourself have the same features, including:
 
 ## Data
 
-`data/programs.json` has 709 programs, each taken from the funder's or employer's own page or from an academic job board such as Academic Jobs Online. Main fields: `n` name, `f` funder, `c` type, `s` status (open, rolling or watch), `d` next deadline, `dt` deadline note, `a` award, `e` eligibility and notes, `u` official link, `stages` (ug undergraduates, gr graduate students, pd postdocs, tt tenure-track faculty, ten tenured faculty), `added` date added, `checked` date last checked, `unv` anything that could not be confirmed.
+`data/programs.json` has 708 programs, each taken from the funder's or employer's own page or from an academic job board such as Academic Jobs Online. Main fields: `n` name, `f` funder, `c` type, `s` status (open, rolling or watch), `d` next deadline, `dt` deadline note, `a` award, `e` eligibility and notes, `u` official link, `stages` (ug undergraduates, gr graduate students, pd postdocs, tt tenure-track faculty, ten tenured faculty), `added` date added, `checked` date last checked, `unv` anything that could not be confirmed.
 
 `data/programs.json` holds the rows of the shared catalog that this page shows, the same rows that are embedded in `index.html`. `engine/export_mod.js` is the export and calendar-link code inlined in the page.
 
